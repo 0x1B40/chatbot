@@ -16,4 +16,3 @@ Back-end: Django
    create a new virtual environment and pip install -r requirements.txt
 2) navigate to the backend, run on a seperate commandline: python manage.py runserver
 3) navigate to the front-end and on cmd: npm start
-4) make sure npm is installed.
